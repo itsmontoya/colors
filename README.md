@@ -1,4 +1,4 @@
-# Colors
+# Colors [![GoDoc](https://godoc.org/github.com/hatchify/colors?status.svg)](https://godoc.org/github.com/hatchify/colors) ![Status](https://img.shields.io/badge/status-beta-yellow.svg)
 Colors is a helper library to add color to text
 
 ## Usage 
