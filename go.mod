@@ -1,3 +1,3 @@
-module github.com/hatchify/colors
+module github.com/itsmontoya/colors
 
-go 1.14
+go 1.20
